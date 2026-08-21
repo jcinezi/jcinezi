@@ -1,5 +1,9 @@
 ## Jonathas Cinezi
 
+## Redes Sociais
+[LinkedIn](https://www.linkedin.com/in/jonathas-cinezi/)
+
+## Projetos
 [Relatórios SOC](https://github.com/jcinezi/letsdefend-soc-reports)
 
 <!--
